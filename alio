@@ -1,4 +1,4 @@
-# Logs
+# Logs*halou
 logs//
 *.log
 npm-debug.log*good**
@@ -11,7 +11,7 @@ god bless with u//**
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json...//
 # evrey thing is good
 # Runtime data//sepo;i//sepoli//
-pids...
+pids.../very nice
 *.pid**good
 *.seed**saeod/good
 *.pid.lock//
