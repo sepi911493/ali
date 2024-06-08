@@ -1,5 +1,5 @@
 # Logs*halou
-logs//
+logs//very nice
 *.log
 npm-debug.log*good**
 yarn-debug.log*
