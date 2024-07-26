@@ -46,7 +46,7 @@ god bless with u
 typings/
 nice
 # TypeScript cache
-*.tsbuildinfo
+*.tsbuildinfom,hv
 
 # Optional npm cache directory
 .npm
