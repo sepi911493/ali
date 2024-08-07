@@ -52,7 +52,7 @@ X
 .npm
 
 # Optional eslint cache
-.eslintcache
+.eslintcachegxg
 
 # Microbundle cache
 .rpt2_cache/
