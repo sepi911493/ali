@@ -46,7 +46,7 @@ nicelkj
 # TypeScript cachew
 *.tsbuildinfom,hv
 X
-# Optional npm cache directory
+# Optional npm cache directoryuuu
 .npm
 
 # Optional eslint cache
