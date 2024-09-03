@@ -62,7 +62,7 @@ nl lj
 
 # Output of 'npm pack'
 *.tgz
-jhgg
+jhggk
 # Yarn Integrity file
 .yarn-integrity
 
