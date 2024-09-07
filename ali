@@ -35,7 +35,7 @@ bower_components//
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)ppp
 build/Release
-
+ppp
 # Dependency directoriesjh,hv
 node_modules/goodh.ffbcv
 jspm_packages/
