@@ -47,7 +47,7 @@ nicelkj
 *.tsbuildinfom,hv
 X
 # Optional npm cache directoryuuu
-.npm
+.npm.m,
 
 # Optional eslint cache
 .eslintcachegxg
