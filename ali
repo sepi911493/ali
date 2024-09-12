@@ -33,7 +33,7 @@ bower_components//
 # node-waf configuration
 .lock-wscriptmvvn
 
-# Compiled binary addons (https://nodejs.org/api/addons.html)ppphh
+# Compiled binary addons (https://nodejs.org/api/addons.html)ppphhNBV
 build/Release
 pppkn
 # Dependency directoriesjh,hv
