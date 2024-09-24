@@ -27,7 +27,7 @@ kj
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunta
 
-# Bower dependency directory (https://bower.iohjf
+# Bower dependency directory (https://bower.iohjfww
 bower_components//
 
 # node-waf configuration
