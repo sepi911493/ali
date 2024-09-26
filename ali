@@ -45,7 +45,7 @@ typings/mmbb
 nicelkj
 # TypeScript cachewtty
 *.tsbuildinfom,hv
-X
+Xuio
 # Optional npm cache directoryuuu
 .npm.m,
 
